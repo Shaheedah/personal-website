@@ -1,0 +1,102 @@
+
+*{
+    margin: 0;
+    padding: px;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:white;
+    margin: 10px;
+    line-break: auto;
+    padding: 5px;
+    
+}
+#skills.html.body{
+  background-color:brown;
+  margin: 15px;
+  line-break: auto;
+  padding: 10px;
+}
+  
+h1.heading{
+    color: navy;
+    font-size: 80px;
+    text-decoration: solid;
+    text-align: center;
+    padding: 10px;
+}
+h2.special{
+    color: grey;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+}
+div.text{
+  text-align: center;
+  padding: 10px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 60%;
+    padding: 10px;
+}
+h2{
+  color: navy;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #8C6961;
+    
+  
+  }
+ 
+  li{
+    float: right;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover {
+    background-color: white;
+    float: right;
+    color: #8C6961;
+  
+    }
+ 
+      section {
+          margin-left: 5px;
+          padding: 10px;
+    
+      }
+    
+    p{
+        font-style: normal;
+        color:black;
+        padding: 15px;
+    }
+   h3.design{
+     font-style: oblique;
+     color: gray;
+     padding: 20px;
+   }
+   footer.Contact{
+     text-align: center;
+     padding: 120px;
+   }
